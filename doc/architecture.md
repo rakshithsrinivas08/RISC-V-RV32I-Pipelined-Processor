@@ -1,6 +1,7 @@
 # Architecture Document: RISC-V RV32I Pipelined Processor
 
 ## 1. Module Hierarchy
+
 ![Block Diagram](doc/diagrams/top_level_block_diagram.svg)
 
 ## 2. Module Descriptions
