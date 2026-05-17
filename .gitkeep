@@ -1,0 +1,10 @@
+rtl/.gitkeep
+tb/uvm/env/.gitkeep
+tb/uvm/seq/.gitkeep
+tb/uvm/test/.gitkeep
+tb/uvm/top/.gitkeep
+tb/basic/.gitkeep
+sim/.gitkeep
+synth/.gitkeep
+doc/diagrams/.gitkeep
+doc/results/.gitkeep
