@@ -1,0 +1,29 @@
+# Simulation outputs
+*.vcd
+*.vpd
+*.fsdb
+*.wlf
+*.log
+*.jou
+
+# Compiled outputs
+work/
+xcelium.d/
+simv
+simv.daidir/
+csrc/
+DVEfiles/
+ucli.key
+
+# Synthesis outputs (keep reports, ignore databases)
+*.db
+*.ddc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
