@@ -1,4 +1,3 @@
-# RISC-V-RV32I-Pipelined-Processor
 # RISC-V RV32I 5-Stage Pipelined Processor
 
 A fully synthesizable 32-bit RISC-V processor implementing the RV32I base integer
