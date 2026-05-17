@@ -2,7 +2,7 @@
 
 ## 1. Module Hierarchy
 
-![Block Diagram](doc/diagrams/top_level_block_diagram.svg)
+![Block Diagram](doc/top_level_block_diagram.svg)
 
 ## 2. Module Descriptions
 
