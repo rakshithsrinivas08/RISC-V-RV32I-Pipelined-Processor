@@ -5,7 +5,7 @@ instruction set, with a 5-stage pipeline and UVM-based verification environment.
 
 ## Architecture Overview
 
-![Block Diagram](doc/diagrams/top_level_block_diagram.png)
+![Block Diagram](doc/diagrams/top_level_block_diagram.svg)
 
 ### Pipeline Stages
 1. **IF** - Instruction Fetch
